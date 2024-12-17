@@ -17,10 +17,10 @@ class FilterManager {
     filters[FilterEnumType.location] = LocationFilter(locations);
     filters[FilterEnumType.trainingName] = TrainingNameFilter(trainingName);
     filters[FilterEnumType.trainerName] = TrainerNameFilter(trainerName);
-    populateFilters();
+    populateSelectedFilters();
   }
 
-  void populateFilters() {
+  void populateSelectedFilters() {
     for (FilterEnumType type in controller.selectedItems.keys) {
       filters[type]?.selectedItems = controller.selectedItems[type] ?? {};
     }
