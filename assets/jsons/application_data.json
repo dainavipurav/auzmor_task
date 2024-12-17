@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "title": "Yoga Class",
+      "image": "assets/images/banners/banner1.jpg",
+      "date": "30 Oct - 30 Oct",
+      "time": "10:00 AM - 5:00 PM",
+      "address": "123 Fitness Avenue",
+      "popularityStatus": "High",
+      "rating": 4.8,
+      "trainer": {
+        "name": "Alex Smith",
+        "image": "assets/images/banners/banner3.jpg",
+        "designation": "Certified Yoga Trainer",
+        "trainerBadge": {
+          "name": "Top Performer",
+          "image": "assets/images/banners/banner2.jpg",
+          "description": "Awarded for exceptional training sessions."
+        }
+      },
+      "baseAmount": 20,
+      "discountAmount": 15,
+      "finalAmount": 15
+    },
+    {
+      "title": "Dance Workshop",
+      "image": "assets/images/banners/banner2.jpg",
+      "date": "17 Dec - 18 Dec",
+      "time": "6:00 PM - 8:00 PM",
+      "address": "45 Arts Street",
+      "popularityStatus": "Medium",
+      "rating": 4.5,
+      "trainer": {
+        "name": "Maria Johnson",
+        "image": "assets/images/banners/banner4.jpg",
+        "designation": "Dance Choreographer",
+        "trainerBadge": {
+          "name": "Best Instructor",
+          "image": "assets/images/banners/banner3.jpg",
+          "description": "Recognized for outstanding choreography."
+        }
+      },
+      "baseAmount": 25,
+      "discountAmount": 20,
+      "finalAmount": 20
+    },
+    {
+      "title": "Cooking Class",
+      "image": "assets/images/banners/banner3.jpg",
+      "date": "20 Dec - 21 Dec",
+      "time": "3:00 PM - 5:00 PM",
+      "address": "78 Culinary Blvd",
+      "popularityStatus": "Low",
+      "rating": 4.2,
+      "trainer": {
+        "name": "Gordon Brown",
+        "image": "assets/images/banners/banner5.jpg",
+        "designation": "Chef",
+        "trainerBadge": {
+          "name": "Master Chef",
+          "image": "assets/images/banners/banner1.jpg",
+          "description": "Awarded for culinary excellence."
+        }
+      },
+      "baseAmount": 30,
+      "discountAmount": 25,
+      "finalAmount": 25
+    },
+    {
+      "title": "Yoga Class",
+      "image": "assets/images/banners/banner1.jpg",
+      "date": "30 Oct - 30 Oct",
+      "time": "10:00 AM - 5:00 PM",
+      "address": "123 Fitness Avenue",
+      "popularityStatus": "High",
+      "rating": 4.8,
+      "trainer": {
+        "name": "Alex Smith",
+        "image": "assets/images/banners/banner3.jpg",
+        "designation": "Certified Yoga Trainer",
+        "trainerBadge": {
+          "name": "Top Performer",
+          "image": "assets/images/banners/banner2.jpg",
+          "description": "Awarded for exceptional training sessions."
+        }
+      },
+      "baseAmount": 20,
+      "discountAmount": 15,
+      "finalAmount": 15
+    },
+    {
+      "title": "Dance Workshop",
+      "image": "assets/images/banners/banner2.jpg",
+      "date": "17 Dec - 18 Dec",
+      "time": "6:00 PM - 8:00 PM",
+      "address": "45 Arts Street",
+      "popularityStatus": "Medium",
+      "rating": 4.5,
+      "trainer": {
+        "name": "Maria Johnson",
+        "image": "assets/images/banners/banner4.jpg",
+        "designation": "Dance Choreographer",
+        "trainerBadge": {
+          "name": "Best Instructor",
+          "image": "assets/images/banners/banner3.jpg",
+          "description": "Recognized for outstanding choreography."
+        }
+      },
+      "baseAmount": 25,
+      "discountAmount": 20,
+      "finalAmount": 20
+    },
+    {
+      "title": "Cooking Class",
+      "image": "assets/images/banners/banner3.jpg",
+      "date": "20 Dec - 21 Dec",
+      "time": "3:00 PM - 5:00 PM",
+      "address": "78 Culinary Blvd",
+      "popularityStatus": "Low",
+      "rating": 4.2,
+      "trainer": {
+        "name": "Gordon Brown",
+        "image": "assets/images/banners/banner5.jpg",
+        "designation": "Chef",
+        "trainerBadge": {
+          "name": "Master Chef",
+          "image": "assets/images/banners/banner1.jpg",
+          "description": "Awarded for culinary excellence."
+        }
+      },
+      "baseAmount": 30,
+      "discountAmount": 25,
+      "finalAmount": 25
+    },
+    {
+      "title": "Music Lesson",
+      "image": "assets/images/banners/banner4.jpg",
+      "date": "5 Jan - 7 Jan",
+      "time": "2:00 PM - 4:00 PM",
+      "address": "15 Melody Lane",
+      "popularityStatus": "High",
+      "rating": 4.9,
+      "trainer": {
+        "name": "Sarah Collins",
+        "image": "assets/images/banners/banner5.jpg",
+        "designation": "Music Instructor",
+        "trainerBadge": {
+          "name": "Top Musician",
+          "image": "assets/images/banners/banner2.jpg",
+          "description": "Excellence in teaching music."
+        }
+      },
+      "baseAmount": 35,
+      "discountAmount": 30,
+      "finalAmount": 30
+    },
+    {
+      "title": "Art Workshop",
+      "image": "assets/images/banners/banner5.jpg",
+      "date": "12 Jan - 13 Jan",
+      "time": "1:00 PM - 6:00 PM",
+      "address": "90 Canvas Boulevard",
+      "popularityStatus": "Medium",
+      "rating": 4.6,
+      "trainer": {
+        "name": "Emily Adams",
+        "image": "assets/images/banners/banner2.jpg",
+        "designation": "Art Specialist",
+        "trainerBadge": {
+          "name": "Creative Genius",
+          "image": "assets/images/banners/banner3.jpg",
+          "description": "Awarded for artistic brilliance."
+        }
+      },
+      "baseAmount": 40,
+      "discountAmount": 35,
+      "finalAmount": 35
+    },
+    {
+      "title": "Fitness Bootcamp",
+      "image": "assets/images/banners/banner2.jpg",
+      "date": "20 Jan - 25 Jan",
+      "time": "6:00 AM - 8:00 AM",
+      "address": "456 Wellness Park",
+      "popularityStatus": "High",
+      "rating": 4.7,
+      "trainer": {
+        "name": "John Carter",
+        "image": "assets/images/banners/banner5.jpg",
+        "designation": "Fitness Trainer",
+        "trainerBadge": {
+          "name": "Motivation Leader",
+          "image": "assets/images/banners/banner1.jpg",
+          "description": "Awarded for fitness excellence."
+        }
+      },
+      "baseAmount": 50,
+      "discountAmount": 45,
+      "finalAmount": 45
+    },
+    {
+      "title": "Photography Class",
+      "image": "assets/images/banners/banner1.jpg",
+      "date": "3 Feb - 4 Feb",
+      "time": "9:00 AM - 3:00 PM",
+      "address": "67 Shutter Street",
+      "popularityStatus": "Medium",
+      "rating": 4.4,
+      "trainer": {
+        "name": "Lucas Brown",
+        "image": "assets/images/banners/banner5.jpg",
+        "designation": "Professional Photographer",
+        "trainerBadge": {
+          "name": "Best Photographer",
+          "image": "assets/images/banners/banner2.jpg",
+          "description": "Awarded for outstanding photography."
+        }
+      },
+      "baseAmount": 45,
+      "discountAmount": 40,
+      "finalAmount": 40
+    },
+    {
+      "title": "Coding Bootcamp",
+      "image": "assets/images/banners/banner3.jpg",
+      "date": "10 Feb - 15 Feb",
+      "time": "10:00 AM - 4:00 PM",
+      "address": "24 Code Street",
+      "popularityStatus": "High",
+      "rating": 5.0,
+      "trainer": {
+        "name": "Mia Clark",
+        "image": "assets/images/banners/banner2.jpg",
+        "designation": "Software Engineer",
+        "trainerBadge": {
+          "name": "Code Master",
+          "image": "assets/images/banners/banner1.jpg",
+          "description": "Recognized for coding excellence."
+        }
+      },
+      "baseAmount": 60,
+      "discountAmount": 50,
+      "finalAmount": 50
+    },
+    {
+      "title": "Digital Marketing Workshop",
+      "image": "assets/images/banners/banner5.jpg",
+      "date": "18 Feb - 20 Feb",
+      "time": "11:00 AM - 3:00 PM",
+      "address": "12 Market Avenue",
+      "popularityStatus": "Medium",
+      "rating": 4.3,
+      "trainer": {
+        "name": "David Lee",
+        "image": "assets/images/banners/banner3.jpg",
+        "designation": "Marketing Specialist",
+        "trainerBadge": {
+          "name": "Top Marketer",
+          "image": "assets/images/banners/banner2.jpg",
+          "description": "Recognized for innovative marketing strategies."
+        }
+      },
+      "baseAmount": 55,
+      "discountAmount": 45,
+      "finalAmount": 45
+    }
+  ]
+}
