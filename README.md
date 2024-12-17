@@ -29,6 +29,6 @@ A lightweight and efficient mobile application for checking available training d
 
 ## App Preview
 
-### 1. On Android [Watch on YouTube](https://youtube.com/shorts/lDj3Zg1zA2A)
+### 1. On Android [Watch on YouTube](https://youtube.com/shorts/EQwzOrv7uA4)
 
 ### 2. On iPhone [Watch on YouTube](https://youtube.com/shorts/lDj3Zg1zA2A)
